@@ -5,6 +5,8 @@
 ## Выбор датасета
 Датасет для ЛР №6: [Fruits Dataset](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images)
 
+Датасет для ЛР №7: [Leaf disease segmentation dataset](https://www.kaggle.com/datasets/fakhrealam9537/leaf-disease-segmentation-dataset?resource=download)
+
 ## Лабораторная работа №6
 | Модель | Test Accuracy | macro‑F1 |
 |--------|---------------|----------|
